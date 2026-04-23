@@ -1,0 +1,11 @@
+
+
++ hot reaload feature for shaders
++ sampler states instead of glTexParameter
+
++ revisit iterators for map tiles/room objects etc
++ navigation service
++ helpers for select random point within tile
++ convert GameObjectLocomotion to EntityLocomotion
+
++ adding rooms/objects to player's inventory lists invalidates iterators - find solution
